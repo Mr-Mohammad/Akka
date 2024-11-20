@@ -1,0 +1,6 @@
+@Akka_HostAddress = http://localhost:5014
+
+GET {{Akka_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
